@@ -1,0 +1,680 @@
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\appsettings.json
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.staticwebassets.runtime.json
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.exe
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.deps.json
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.runtimeconfig.json
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\EMISWebApp.pdb
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfoInputs.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfo.cs
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.CoreCompileInputs.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cs
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EMISWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EMISWebApp.props
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMISWebApp.props
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMISWebApp.props
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\scopedcss\bundle\EMISWebApp.styles.css
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EMISWebApp.bundle.scp.css
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.dll
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\refint\EMISWebApp.dll
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.pdb
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.genruntimeconfig.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\ref\EMISWebApp.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.AssemblyReference.cache
+D:\C# projects\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.Up2Date
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Humanizer.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\appsettings.Development.json
+E:\EMISWebApp\bin\Debug\net8.0\appsettings.json
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.staticwebassets.runtime.json
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.exe
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.deps.json
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.runtimeconfig.json
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.dll
+E:\EMISWebApp\bin\Debug\net8.0\EMISWebApp.pdb
+E:\EMISWebApp\bin\Debug\net8.0\Azure.Core.dll
+E:\EMISWebApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\EMISWebApp\bin\Debug\net8.0\Humanizer.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\EMISWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\EMISWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\EMISWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.AssemblyReference.cache
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfoInputs.cache
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfo.cs
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.CoreCompileInputs.cache
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cache
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cs
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EMISWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EMISWebApp.props
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMISWebApp.props
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMISWebApp.props
+E:\EMISWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\EMISWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EMISWebApp\obj\Debug\net8.0\scopedcss\bundle\EMISWebApp.styles.css
+E:\EMISWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EMISWebApp.bundle.scp.css
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.Up2Date
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.dll
+E:\EMISWebApp\obj\Debug\net8.0\refint\EMISWebApp.dll
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.pdb
+E:\EMISWebApp\obj\Debug\net8.0\EMISWebApp.genruntimeconfig.cache
+E:\EMISWebApp\obj\Debug\net8.0\ref\EMISWebApp.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\appsettings.json
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.staticwebassets.runtime.json
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.exe
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.deps.json
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.runtimeconfig.json
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\EMISWebApp.pdb
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Humanizer.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft SQL Server\EMISWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.AssemblyReference.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfoInputs.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.AssemblyInfo.cs
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cs
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EMISWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EMISWebApp.props
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMISWebApp.props
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMISWebApp.props
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\scopedcss\bundle\EMISWebApp.styles.css
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EMISWebApp.bundle.scp.css
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.csproj.Up2Date
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.dll
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\refint\EMISWebApp.dll
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.pdb
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\EMISWebApp.genruntimeconfig.cache
+D:\Microsoft SQL Server\EMISWebApp\obj\Debug\net8.0\ref\EMISWebApp.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\appsettings.Development.json
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\appsettings.json
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.staticwebassets.runtime.json
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.exe
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.deps.json
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.runtimeconfig.json
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.pdb
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Azure.Core.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Humanizer.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.CodeDom.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.AssemblyReference.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.AssemblyInfoInputs.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.AssemblyInfo.cs
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.CoreCompileInputs.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cs
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.EMISWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.build.EMISWebApp.props
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMISWebApp.props
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMISWebApp.props
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\scopedcss\bundle\EMISWebApp.styles.css
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\scopedcss\projectbundle\EMISWebApp.bundle.scp.css
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.Up2Date
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.dll
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\refint\EMISWebApp.dll
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.pdb
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.genruntimeconfig.cache
+D:\C# projects\emiswebappV1\obj\Debug\net8.0\ref\EMISWebApp.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\appsettings.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.staticwebassets.runtime.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.exe
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.deps.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.runtimeconfig.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\EMISWebApp.pdb
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.AssemblyReference.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.AssemblyInfoInputs.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.AssemblyInfo.cs
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.RazorAssemblyInfo.cs
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.EMISWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.build.EMISWebApp.props
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMISWebApp.props
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMISWebApp.props
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\scopedcss\bundle\EMISWebApp.styles.css
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\scopedcss\projectbundle\EMISWebApp.bundle.scp.css
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.csproj.Up2Date
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\refint\EMISWebApp.dll
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.pdb
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\EMISWebApp.genruntimeconfig.cache
+C:\Users\ericc\source\repos\C# Projects\emiswebappV1\obj\Debug\net8.0\ref\EMISWebApp.dll

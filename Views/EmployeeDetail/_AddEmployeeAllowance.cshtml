@@ -1,0 +1,72 @@
+﻿@model EMISWebApp.Models.EmployeeAllowanceVM
+
+@{
+    Layout = null;
+}
+
+@Html.HiddenFor(model => model.EmployeeId)
+
+<div class="form-horizontal">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.AllowanceId, htmlAttributes: new { @class = "control-label col-md-4" })
+        <div class="col-md-5">
+            @Html.DropDownListFor(model => model.AllowanceId, ViewBag.Allowances as SelectList, "Select Allowance", new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.AllowanceId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+</div>
+
+<script>
+    var employeeId = $("#EmployeeId").val();
+    var allowanceId = $("#AllowanceId").val();
+
+     $("#AllowanceId").change(function () {
+         allowanceId = $(this).val();  // Update the allowanceId whenever a new value is selected
+     });
+
+    $("#btnSave").off("click").on("click", function () {
+        console.log("EmployeeIdssssssssssss:", employeeId);
+        console.log("AllowanceId*************:", allowanceId);
+
+        debugger;
+        if (!employeeId) {
+            alert("Employee ID is required.");
+            return;
+        }
+
+        var formData = new FormData();
+        formData.append("EmployeeId", employeeId);
+        formData.append("AllowanceId", allowanceId);
+
+        // Include CSRF token if applicable
+        var token = $('input[name="__RequestVerificationToken"]').val();
+        if (token) {
+            formData.append('__RequestVerificationToken', token);
+        }
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("SaveEmployeeAllowance", "EmployeeDetail")',
+            data: formData,
+            contentType: false, // Prevent jQuery from setting the content-type header
+            processData: false, // Prevent jQuery from processing the data
+            success: function (response) {
+                if (response === "success") {
+                    alert("Employee allowance added successfully!");
+                    window.location.reload();
+                } else if (response === "duplicate") {
+                    alert("Employee allowance already exists!");
+                } else {
+                    alert("An error occurred while saving the request.");
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error("Error: " + error);
+                console.error("Status: " + status);
+                console.error("Response: " + xhr.responseText);
+                alert("An error occurred while processing the request.");
+            }
+        });
+    });
+</script>

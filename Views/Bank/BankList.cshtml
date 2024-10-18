@@ -1,0 +1,27 @@
+﻿@model IEnumerable<EMISWebApp.Models.Bank>
+
+    <div>
+        <table class="table table-bordered table-hover table-responsive table-striped text-capitalize">
+            <thead>
+                <tr>
+                    <td>#</td>
+                <td><b>BankCode</b></td>
+                <td><b>BankName</b></td>
+                </tr>
+            @{
+                int x = 0;
+            }
+            </thead>
+                @foreach(var item in Model)
+        {
+            x++;
+            <tbody>
+                    <tr>
+                        <td>@x</td>
+                        <td>@item.BankCode</td>
+                        <td>@item.BankName</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>

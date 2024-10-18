@@ -1,0 +1,29 @@
+﻿@model IEnumerable<EMISWebApp.Models.Region>
+
+<div class="content">
+    <table class="table table-bordered table-responsive table-striped tab table-hover">
+        <thead>
+            <tr style="background-color:gray">
+                <td><b>#</b></td>
+                <td><b>Region Name</b></td>
+                <td><b>Action</b></td>
+            </tr>
+        </thead>
+
+        <tbody>
+            @{
+                int i = 0;
+            }
+
+            @foreach (var item in Model)
+            {
+                i++;
+               <tr>
+                   <td>@i</td>
+                   <td>@item.RegionName</td>
+                   <td>NA</td>
+               </tr> 
+            }
+        </tbody>
+    </table>
+</div>

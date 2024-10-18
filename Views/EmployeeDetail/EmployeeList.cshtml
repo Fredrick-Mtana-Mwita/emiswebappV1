@@ -1,0 +1,155 @@
+﻿@model IEnumerable<EMISWebApp.Models.EmployeeVM>
+@{
+    // Layout = null;
+}
+
+
+
+
+<div class="panel-container show">
+    <div>
+        <a href="@Url.Action("CreateEmployee","EmployeeDetail")" class="btn btn-default btn-success">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+            Add Employee
+        </a>
+        <hr />
+    </div>
+
+    <table class="table table-bordered table-responsive table-striped table-hover" style="width:100%">
+        <thead>
+            <tr>
+                <td><b>#</b></td>
+                <td><b>Employee Number</b></td>
+                <td><b>Employee Name</b></td>
+                <td><b>Birth Date</b></td>
+                <td><b>Hired Date</b></td>
+                <td><b>National Id</b></td>
+                <td><b>Address</b></td>
+                <td><b>Region</b></td>
+                <td><b>District</b></td>
+                <td><b>Station</b></td>
+                <td><b>Department</b></td>
+                <td><b>Action</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 0;
+            }
+            @foreach (var item in Model)
+            {
+                i++;
+                <tr>
+                    <td>@i</td>
+                    <td>@item.EmployeeNumber</td>
+                    <td>@item.EmployeeName</td>
+                    <td>@Convert.ToDateTime(item.BirthDate).ToString("dd MMM yyyy")</td>
+                    <td>@Convert.ToDateTime(item.HiredDate).ToString("dd MMM yyyy")</td>
+                    <td>@item.NationalIdentificationNo</td>
+                    <td>@item.Address</td>
+                    <td>@item.Region</td>
+                    <td>@item.District</td>
+                    <td>@item.Station</td>
+                    <td>@item.Department</td>
+                    <td>
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                Action
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                <li><a class="dropdown-item" href="#" onclick="viewDetail('@item.EmployeeId')">Detail</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("EditEmployeeDetailList","EmployeeDetail",new {id = item.EmployeeId })">Edit</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="removeEmployee('@item.EmployeeId')">Remove</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="addAllowance('@item.EmployeeId')">Add Allowance</a></li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel"></h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" id="btnSave">Save Allowance</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        debugger;
+        function removeEmployee(id) {
+            var isConfirmed = confirm("Are you sure you want to delete this data?")
+            debugger;
+            var url = '@Url.Action("removeEmployee", "EmployeeDetail")';
+            var statusMsg = "Hi";
+
+            if (isConfirmed) {
+                $.ajax({
+                    type: 'POST',
+                    url: url,
+                    data: { id: id, status: statusMsg },
+                    success: function () {
+                        alert("Deleted Successfully");
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        alert('An error occured:' + error);
+                    }
+                });
+            }
+            else {
+                alert('Deletion cancelled.');
+            }
+        }
+
+        var addAllowance = function (id) {
+            debugger;
+            var url = '@Url.Action("AddEmployeeAllowance", "EmployeeDetail")/' + id;
+
+            $(".modal-body").load(url, function (response, status, xhr) {
+
+                $("#exampleModal").modal({
+                    backdrop: "static",
+                    keyboard: false
+                });
+                $(".modal-title").text("Add Employee Allowance");
+                $("#exampleModal").modal('show')
+                $("#btnSave").show();
+
+            });
+        };
+        /*A function for viewing detail*/
+        var viewDetail = function (id) {
+            debugger;
+            var url = '@Url.Action("ViewDetail", "EmployeeDetail")/' + id; /*Query string*/
+
+            $(".modal-body").load(url, function (response, status, xhr) {
+
+                $("#exampleModal").modal({
+                    backdrop: "static",
+                    keyboard: false
+                });
+
+                $(".modal-title").text("Employee Details");
+                $("#exampleModal").modal('show');
+                $("#btnSave").hide();
+
+            });
+        }
+    </script>
+
+}
