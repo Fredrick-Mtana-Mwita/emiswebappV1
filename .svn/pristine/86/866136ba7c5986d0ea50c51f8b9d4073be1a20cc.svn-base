@@ -1,0 +1,81 @@
+﻿@model IEnumerable<EMISWebApp.Models.Station>
+
+
+<div class="panel-container show">
+    <div>
+        <a href="@Url.Action("CreateStation","Station")" class="btn btn-default btn-success">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+            Add Station
+        </a>
+        <hr />
+    </div>
+
+    <table class="table table-bordered table-responsive table-striped table-hover table-capitalize">
+        <thead>
+            <tr>
+                <td><b>#</b></td>
+                <td><b>Station Code</b></td>
+                <td><b>Station Name</b></td>
+                <td><b>Action</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 0;
+            }
+            @foreach (var item in Model)
+            {
+                i++;
+                <tr>
+                    <td>@i</td>
+                    <td>@item.StationCode</td>
+                    <td>@item.StationName</td>
+                    <td>
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                Action
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                <li><a class="dropdown-item" href="#">Detail</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("EditStation","Station",new {id = item.Id })">Edit</a></li>
+                                <li><a class="dropdown-item" href="#" onclick="removeStation('@item.Id')">Remove</a></li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@section Scripts {
+    <script>
+
+        function removeStation(id) {
+            var isConfirmed = confirm("Are you sure you want to delete this data?")
+            debugger;
+            var url = '@Url.Action("DeleteStation", "Station")';
+            var statusMsg = "Hi";
+
+            if (isConfirmed) {
+                $.ajax({
+                    type: 'POST',
+                    url: url,
+                    data: { id: id, status: statusMsg },
+                    success: function () {
+                        alert("Deleted Successfully");
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        alert('An error occured:' + error);
+                    }
+                });
+            }
+            else {
+                alert('Deletion cancelled.');
+            }
+
+        };
+    </script>
+}

@@ -1,0 +1,257 @@
+﻿@model EMISWebApp.Models.EmployeeDetailVM
+<div class="col-xl-12">
+    <div id="panel-3" class="panel">
+        <div class="panel-container show">
+            <div class="panel-content">
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.EmployeeNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.EmployeeNumber, new { htmlAttributes = new { @class = "form-control", oninput = "limitDigits(this, 4)" } })
+                            @Html.ValidationMessageFor(model => model.EmployeeNumber, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", oninput = "limitDigits(this, 4)" } })
+                            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                        </div>
+
+                        @Html.LabelFor(model => model.MiddleName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.MiddleName, new { htmlAttributes = new { @class = "form-control", oninput = "limitDigits(this, 4)" } })
+                            @Html.ValidationMessageFor(model => model.MiddleName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", oninput = "limitDigits(this, 4)" } })
+                            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                        </div>
+
+                        @Html.LabelFor(model => model.NationalIdentificationNo, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.NationalIdentificationNo, new { htmlAttributes = new { @class = "form-control", oninput = "limitDigits(this, 4)" } })
+                            @Html.ValidationMessageFor(model => model.NationalIdentificationNo, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.BirthDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4" id="datepicker">
+                            @Html.EditorFor(model => model.BirthDate, new { htmlAttributes = new { @class = "form-control", @placeholder = "Select a date" } })
+                            <span class="input-group-text">
+                                <i class="bi bi-calendar3"></i>
+                            </span>
+                            @Html.ValidationMessageFor(model => model.BirthDate, "", new { @class = "text-danger" })
+                        </div>
+
+                        @Html.LabelFor(model => model.HiredDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4" id="datepicker">
+                            @Html.EditorFor(model => model.HiredDate, new { htmlAttributes = new { @class = "form-control", @placeholder = "Select a date" } })
+                            <span class="input-group-text">
+                                <i class="bi bi-calendar3"></i>
+                            </span>
+                            @Html.ValidationMessageFor(model => model.HiredDate, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.AccountNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.AccountNumber, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.AccountNumber, "", new { @class = "text-danger" })
+                        </div>
+                        @Html.LabelFor(model => model.AccountName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.AccountName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.AccountName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                        </div>
+                        @Html.LabelFor(model => model.BankId, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.DropDownListFor(model => model.BankId, Model.Banks, "Select Bank", new { @Class = "form-control", required = "required" })
+                            @Html.ValidationMessageFor(model => model.BankId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.DeptId, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.DropDownListFor(model => model.DeptId, Model.Departments, "Select Department", new { @Class = "form-control", required = "required" })
+                            @Html.ValidationMessageFor(model => model.DeptId, "", new { @class = "text-danger" })
+                        </div>
+                        @Html.LabelFor(model => model.StationId, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.DropDownListFor(model => model.StationId, Model.Stations, "Select Station", new { @Class = "form-control", required = "required" })
+                            @Html.ValidationMessageFor(model => model.StationId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="form-group row">
+                        @Html.LabelFor(model => model.RegionId, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.DropDownListFor(model => model.RegionId, Model.Regions, "Select Region", new { @Class = "form-control", required = "required" })
+                            @Html.ValidationMessageFor(model => model.RegionId, "", new { @class = "text-danger" })
+                        </div>
+                        @Html.LabelFor(model => model.DistrictId, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-4">
+                            @Html.DropDownListFor(model => model.DistrictId, new SelectList(""), "Select District", new { @Class = "form-control", required = "required" })
+                            @Html.ValidationMessageFor(model => model.DistrictId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group text-center">
+                        <!-- Add text-center class to center align the content -->
+                        <div class="col-md-offset-3 col-md-6">
+                            <!-- Adjust col-md-offset-* and col-md-* as needed -->
+                            <button type="button" class="btn btn-primary" onclick="saveEmployee()">
+                                <span class=" bi bi-save"></span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-save" viewBox="0 0 16 16">
+                                    <path d="M2 1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H9.5a1 1 0 0 0-1 1v7.293l2.646-2.647a.5.5 0 0 1 .708.708l-3.5 3.5a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L7.5 9.293V2a2 2 0 0 1 2-2H14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h2.5a.5.5 0 0 1 0 1z" />
+                                </svg>
+                                Save
+                            </button>
+                            <a class="btn btn-primary" href="EmployeeList" role="button">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-short" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5" />
+                                </svg>
+                                Back
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/datepicker/jquery-371.js"></script>
+    <script>
+
+        $("#RegionId").change(function () {
+            debugger;
+            var regionId = $("#RegionId").val();
+            var url = '@Url.Action("GetDistrictList", "EmployeeDetail")';
+
+            $.ajax({
+                type: "GET",
+                url: url,
+                data: { regionId: regionId },
+                success: function (response) {
+                    $("#DistrictId").empty();
+                    $("#DistrictId").append(response);
+                }
+            })
+        });
+
+        function saveEmployee() {
+
+            debugger;
+
+            var employeeNumber = $('#EmployeeNumber').val();
+            var firstName = $('#FirstName').val();
+            var middleName = $('#MiddleName').val();
+            var lastName = $('#LastName').val();
+            var nationalIdentificationNo = $('#NationalIdentificationNo').val();
+            var birthDate = $('#BirthDate').val();
+            var hiredDate = $('#HiredDate').val();
+            var accountNumber = $('#AccountNumber').val();
+            var accountName = $('#AccountName').val();
+            var address = $('#Address').val();
+            var regionId = $('#RegionId').val();
+            var districtId = $('#DistrictId').val();
+            var bankId = $('#BankId').val();
+            var departmentId = $('#DeptId').val();
+            var stationId = $('#StationId').val();
+
+            /*Field Validation*/
+            if (birthDate >= hiredDate) {
+                return alert("Birthdate should be greater than hired date!");
+            }
+            if (regionId == "") {
+                return alert("Region Name must be filled!");
+            }
+            if (districtId == "") {
+                return alert("District Name must be filled!");
+            }
+            if (stationId == "") {
+                return alert("Station Name must be filled!");
+            }
+            if (departmentId == "") {
+                return alert("Department Name must be filled!");
+            }
+            if (accountNumber == "") {
+                return alert("Please fill in your account number!");
+            } else if (isNaN(accountNumber)) {
+                return alert("Account Number requires only numerical digits and without space!");
+            }
+            if (employeeNumber == "") {
+                return alert("Please fill in your  number!");
+            } else if (isNaN(employeeNumber)) {
+                return alert("Employee Number requires only numerical digits and without space!");
+            }
+            /*Create a new formdata object*/
+            var formData = new FormData();
+
+            formData.append('EmployeeNumber', employeeNumber);
+            formData.append('FirstName', firstName);
+            formData.append('MiddleName', middleName);
+            formData.append('LastName', lastName);
+            formData.append('NationalIdentificationNo', nationalIdentificationNo);
+            formData.append('BirthDate', birthDate);
+            formData.append('HiredDate', hiredDate);
+            formData.append('AccountNumber', accountNumber);
+            formData.append('AccountName', accountName);
+            formData.append('RegionId', regionId);
+            formData.append('DistrictId', districtId);
+            formData.append('BankName', 'DTB');
+            formData.append('Address', address);
+            formData.append('BankId', bankId);
+            formData.append('DeptId', departmentId);
+            formData.append('StationId', stationId);
+
+            var returnUrl = '@Url.Action("EmployeeList", "EmployeeDetail")';
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("SaveEmployeeDetail", "EmployeeDetail")',
+                data: formData,
+                contentType: false,/*added to prevent jquery from automatically setting the content-type*/
+                processData: false,/*added to prevent jquery from automatically processing the data*/
+                success: function (response) {
+                    if (response === "success") {
+                        alert("Employee saved successfully!");
+                        window.location.href = returnUrl;
+                    } else if (response === "duplicate") {
+                        alert("Employee already exists!");
+                    } else {
+                        alert("An error occured while saving the request.");
+                    }
+                },
+                error: function (xhr, status, error) {
+                    alert("An error occured while processing the request.");
+                }
+            });
+        }
+
+        $('#datepicker').datepicker();
+
+    </script>
+}

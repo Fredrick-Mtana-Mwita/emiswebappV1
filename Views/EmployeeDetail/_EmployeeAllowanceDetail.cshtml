@@ -1,0 +1,115 @@
+﻿@model EMISWebApp.Models.EmployeeDetailVM;
+@{
+    var allowanceList = ViewBag.AllowanceList as IEnumerable<EMISWebApp.Models.EmployeeAllowanceDetailVM>;
+}
+
+<style>
+    .fieldset {
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+
+    .legend {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .fieldset p {
+        margin: 5px 0;
+        font-size: 1em;
+    }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    .employee-details, .employee-details {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .employee-details p, .employee-details p {
+        margin: 5px 0;
+    }
+</style>
+
+<!-- Pensioner Details Section -->
+<fieldset class="fieldset">
+    <legend class="legend" style="text-align: center;"><b><u>Employee Particulars</u></b></legend>
+    <div class="row">
+        <div class="col-md-6 employee-details">
+            <p><strong>First Name:</strong> @Model.FirstName</p>
+            <p><strong>Middle Name:</strong> @Model.MiddleName</p>
+            <p><strong>Last Name:</strong> @Model.LastName</p>
+            <p><strong>Address:</strong> @Model.Address</p>
+            <p><strong>National Identification Number:</strong> @Model.NationalIdentificationNo</p>
+          @*   <p><strong>Bank Name:</strong> @Model.BankName</p> *@
+        </div>
+        <div class="col-md-6 employee-details">
+            <p><strong>Account Name:</strong> @Model.AccountName</p>
+            <p><strong>Account Number:</strong> @Model.AccountNumber</p>
+            <p><strong>Birth Date:</strong> @Convert.ToDateTime(Model.BirthDate).ToString("dd MMM yyyy")</p>
+            <p><strong>Hired Date:</strong> @Convert.ToDateTime(Model.HiredDate).ToString("dd MMM yyyy")</p>
+            <p><strong>Region:</strong> @Model.RegionName</p>
+            <p><strong>District:</strong> @Model.DistrictName</p>
+        </div>
+    </div>
+</fieldset>
+
+<!-- Payment Details Section -->
+<fieldset class="fieldset">
+    <legend class="legend">Allowance</legend>
+    @if (allowanceList != null)
+    {
+        <div class="allowance-details">
+            @*  Creating a Table  *@
+            <table class="table table-bordered table-hover table-striped table-responsive">
+                <thead>
+                    <tr>
+                        <th>SN</th>
+                        <th>Allowance Name</th>
+                        <th>Allowance Code</th>
+                        <th>Allowance Amount</th>
+                        <th>Allowance Status</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int x = 0;
+                    }
+                    @foreach (var item in allowanceList)
+                    {
+                        x++;
+                        <tr>
+                            <td>@x</td>
+                            <td>@item.AllowanceName</td>
+                            <td>@item.AllowanceCode</td>
+                            <td>@item.AllowanceAmount</td>
+                            <td>@item.AllowanceStatus</td>
+                            
+                        </tr>
+                        
+                    }
+                </tbody>
+          </table>
+
+        </div>
+    }
+    else
+    {
+        <p>No Allowance details available.</p>
+    }
+</fieldset>

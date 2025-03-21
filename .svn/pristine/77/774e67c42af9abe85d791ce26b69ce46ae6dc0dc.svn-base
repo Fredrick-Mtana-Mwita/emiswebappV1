@@ -1,0 +1,68 @@
+﻿@model IEnumerable<EMISWebApp.Models.Allowance>
+
+@{
+    DateTime dateTime = DateTime.Now;
+}
+
+<div class="container">
+    <p>Allowance List as of @Convert.ToDateTime(dateTime).ToString("dd MMMM yyyy") </p>
+    <div class="panel-container show">
+        <div>
+            <a href="@Url.Action("CreateAllowance","Allowance")" class="btn btn-default btn-success">
+                <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                Add Allowance
+            </a>
+            <hr />
+        </div>
+        <br>
+        <table class="table table-bordered table-responsive table-striped table-hover">
+            <thead>
+                <tr>
+                    <td>#</td>
+                    <td>Allowance Code</td>
+                    <td>Allowance Name</td>
+                    <td style="text-align:right">Amount</td>
+                    <td>Action</td>
+
+                </tr>
+            </thead>
+
+            @{
+                int y = 0;
+                decimal? totalAllowance = 0;
+            }
+
+            @foreach (var item in Model)
+            {
+                y++;
+                totalAllowance += item.Amount;
+
+                <tbody>
+                    <tr>
+                        <td>@y</td>
+                        <td>@item.AllowanceCode</td>
+                        <td>@item.AllowanceName</td>
+                        <td style="text-align:right">@Convert.ToDecimal(item.Amount).ToString("N2")</td>
+                            <td>
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Action 
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                    <li><a class="dropdown-item" href="#">Detail</a></li>
+                                    <li><a class="dropdown-item" href="@Url.Action("EditAllowance","Allowance",new {id = item.AllowanceId })">Edit</a></li>
+                                    <li><a class="dropdown-item" href="#">Remove</a></li>
+                                </ul>
+                            </div></td>
+                    </tr>
+                </tbody>
+            }
+
+            <tfoot>
+                <tr>
+                    <td colspan="3" style="text-align:right">Total Allowance</td>
+                    <td style="text-align:right;background-color:azure">@Convert.ToDecimal(totalAllowance).ToString("N2")</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
